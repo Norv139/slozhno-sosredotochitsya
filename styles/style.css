@@ -30,7 +30,7 @@
 }
 
 .header__theme-menu-button {
-    text-transform: uppercase;
+    text-transform: lowercase;
     border: 1px solid transparent;
     padding: 0 12px;
     color: var(--decorated-zone-color);
@@ -342,7 +342,6 @@
     }
 
     .concentration {
-        display: grid;
         grid-template-columns: 1fr 1fr 1fr;
         gap: 20px;
     }
